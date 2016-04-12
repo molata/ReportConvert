@@ -1,15 +1,27 @@
+PCB标示	封装	名称
+B	R-0603	贴片磁珠
 C	C	贴片电容
 C	C-TAN	贴片钽电容
 DC	C-TAN	贴片钽电容
-C	Number	贴片电解电容
+C	220uF10*10.2	贴片电解电容
 D	SMALL	高速开关二极管
-D	Number	贴片LED
-L	induce	贴片电感
+D	0805	贴片LED
+L	induce7515	贴片电感
 R	R	贴片电阻
 DD	USIM	超快恢复二极管
 D	1SS355TE-17	钳位二极管
-DU	SOIC	驱动芯片
+DU	SOIC-8	驱动芯片
+U	LQFP	单片机
+U	DGQ	电源芯片
+U	DBV	与非门
+U	DCT	与门
+Y	CSTCE_G	晶振
+U	DFN	通讯芯片
+U	MSOP	隔离运放
+U	SOT	稳压电源
+U	12-UMLP	3.3V和5V电平转换芯片
 Q	FQFN	MOSFET
 U	SMT	共模电感
+
 
 	
