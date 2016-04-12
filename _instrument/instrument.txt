@@ -1,0 +1,15 @@
+C	C	贴片电容
+C	C-TAN	贴片钽电容
+DC	C-TAN	贴片钽电容
+C	Number	贴片电解电容
+D	SMALL	高速开关二极管
+D	Number	贴片LED
+L	induce	贴片电感
+R	R	贴片电阻
+DD	USIM	超快恢复二极管
+D	1SS355TE-17	钳位二极管
+DU	SOIC	驱动芯片
+Q	FQFN	MOSFET
+U	SMT	共模电感
+
+	
