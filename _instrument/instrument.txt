@@ -1,12 +1,11 @@
 PCB标示	封装	名称
-B	R-0603	贴片磁珠
 C	C	贴片电容
 C	C-TAN	贴片钽电容
 DC	C-TAN	贴片钽电容
 C	220uF10*10.2	贴片电解电容
-D	SMALL	高速开关二极管
+D	SMA11	高速开关二极管
 D	0805	贴片LED
-L	induce7515	贴片电感
+L	induce	贴片电感
 R	R	贴片电阻
 DD	USIM	超快恢复二极管
 D	1SS355TE-17	钳位二极管
@@ -22,6 +21,10 @@ U	SOT	稳压电源
 U	12-UMLP	3.3V和5V电平转换芯片
 Q	FQFN	MOSFET
 U	SMT	共模电感
+
+B	R-0603	贴片磁珠
+U	RX62	CPU
+U	IL422	通讯芯片	
 
 
 	
